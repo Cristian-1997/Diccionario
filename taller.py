@@ -1,3 +1,7 @@
+#PARTICIPANTES
+#Kevin arredondo
+#kevin cardenas 
+#cristian cantillo
 emples = {}
 option = ''
 #cristian cantillo
